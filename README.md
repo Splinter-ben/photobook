@@ -1,24 +1,8 @@
-# photobook
+### This VueJs project allows you to download your photo to our platform for a better management.
 
-## Project setup
-```
-npm install
-```
+##### It uses VueJs, GraphQL and AWS Amplify Authentication
 
-### Compiles and hot-reloads for development
+To run the app in development mode
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
